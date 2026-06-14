@@ -43,3 +43,7 @@ frontend/
 - Fund analysis and comparison pages are designed to display backend-driven metrics.
 - See `backend/README.md` for backend setup.
 - See `docs/Part4_Design_Document.md` for product and AI-layer design notes.
+
+## AI Usage
+- Intial Structure was created using ChatGPT to place all components together according to the design or UI plan
+- Cursor is used to beautify and place all components for a production ready UI
